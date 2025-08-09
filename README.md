@@ -72,7 +72,9 @@ Example Insight: Global average lags at around 60%, with wide country disparitie
 
 ## 📂 Data & Tools Used
 - Datasets:
+
 Covid-19 Deaths (cases, deaths, tests, population data)
+
 Covid-19 Vaccinations (vaccines administered, people fully vaccinated)
 
 - Database: MySQL
